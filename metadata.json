@@ -1,0 +1,6 @@
+{
+  "name": "Fullstack Foundry - Alex Vance Portfolio",
+  "description": "Fullstack Foundry — Portfolio of Alex Vance, Software Engineer specializing in scalable systems, distributed architectures, and flagship computer repair management solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
